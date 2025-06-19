@@ -1,2 +1,3 @@
 # List of projects
-1. Classification Model using Iris Dataset
+1. Classification Model using Iris Dataset.
+2. Comparing Machine Learning Classifiers in Python.
